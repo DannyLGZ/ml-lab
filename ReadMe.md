@@ -1,32 +1,5 @@
 # Machine Learning Lab
 
-This lab is aimed to walk you through the complete workflow of a machine learning project; from data wrangling, exploratory data analysis (EDA), model training and model evaluation/comparison. 
-
-You will work with your machine project teamates for this lab and your team needs to decide whether to use either R or Python as the main programming language. You can split up the work for each question, but **you should solve every question in the lab as a team**. Please submit either a file with a link to the GitHub repository (either your fork of the master repo or the master repo itself) or a Jupyter Notebook that contains your completed work.
-
-We will use Github for team collaboration and it can be broken down into following steps:
-
-1. The team leader creates a public Github repository under his/her account first.
-
-2. All the other team members fork the repo so you will have a COPY of the repo under your account
-
-3. Git clone YOUR OWN repo otherwise you won't be able to push later.
-
-4. Create a subfolder under your name and finish your code. Push the changes to Github. *Note*: you might want to put csv file and system file in the gitignore.
-
-5. Go to the Github page of YOUR OWN repository and click the "Pull Request" tab. You can find the details [here](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-
-6. Submit the pull request so you can see it under team leader's repository.
-
-7. Pair review each other's code before merging it to the master branch.
-
-
-**Homework**
-
-- To sync all the changes made by your teammates to your own repository, follow the instructions under the "Keeping Your Fork Up to Date" section [here](https://gist.github.com/Chaser324/ce0505fbed06b947d962).
-
-- To understand fork, pull request and branch better, review [this video](https://youtu.be/_NrSWLQsDL4) in 1.25X speed.
-
 
 ## Part I: Preprocessing and EDA
 
